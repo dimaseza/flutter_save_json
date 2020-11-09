@@ -1,0 +1,20 @@
+[
+      {
+            "name":"Dimas Imameza",
+            "email":"dimaseza@gojek.com",
+            "city":"Madiun",
+            "position":"DevOps"
+      },
+      {
+            "name":"Made Diva Prasetya",
+            "email":"divap773@satupersen.com",
+            "city":"Lombok",
+            "position":"Senior Front End Developer"
+      },
+      {
+            "name":"Dimas Prakoso",
+            "email":"dimprakoso@telkom.com",
+            "city":"Bogor",
+            "position":"System Admin & Security"
+      }
+]
